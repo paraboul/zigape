@@ -1,0 +1,11 @@
+.{
+    .name = "libapenetwork",
+    .version = "0.0.1",
+    .paths = .{
+        "src/ape_netlib.h",
+        "build.zig",
+        "build.zig.zon",
+        "LICENSE",
+        "README.md",
+    },
+}
